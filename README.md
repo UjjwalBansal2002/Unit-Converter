@@ -35,15 +35,15 @@ A web-based unit converter application that allows users to convert between diff
 
 The server will run on http://localhost:3000.
 
-### **Setup Frontend**:
+5. **Setup Frontend**:
    **Open the index.html file**
    **Start it on live server**
    or
+   
    ```bash
-   npx live-server
+      npx live-server
 
-
-###Usage
+Usage
 1.Open the frontend application in your browser.
 2.Select a category (e.g., Length, Weight, Temperature).
 3.Choose the input and output units from the dropdown menus.
