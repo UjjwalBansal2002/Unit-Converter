@@ -35,7 +35,7 @@ A web-based unit converter application that allows users to convert between diff
 
 The server will run on http://localhost:3000.
 
-6. **Setup Frontend**:
+### **Setup Frontend**:
    -->Open the index.html file
    -->Start it on live server
    or npx live-server
