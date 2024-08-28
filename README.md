@@ -25,14 +25,17 @@ A web-based unit converter application that allows users to convert between diff
    cd unit-converter
 
 2. **Navigate to the backend directory and install the dependencies**:
-    cd backend
-    npm install
+   ```bash
+   cd backend
+   npm install
    
-3. **Start the Backend Server**:
-    npm start
-    The server will run on http://localhost:3000.
+4. **Start the Backend Server**:
+   ```bash
+   npm start
 
-4. **Setup Frontend**:
+The server will run on http://localhost:3000.
+
+6. **Setup Frontend**:
    -->Open the index.html file
    -->Start it on live server
    or npx live-server
